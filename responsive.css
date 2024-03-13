@@ -1,0 +1,1031 @@
+
+@media (max-width: 1440px){
+
+    .banner_section{
+        width: 100%;
+    }
+.menu{
+  
+        align-items: center;
+        text-align:right;
+    
+    }
+    
+
+
+
+    .social-media li a:hover i{
+        transform: translateY(-.5rem); 
+        border: 1px solid var(--green-clr); 
+        border-radius: 50%; 
+        font-size:20px;
+        background-color: var( --white-clr);
+        box-shadow:1px 1px 10px var(--white-clr),1px 1px 10px var(--white-clr);
+    }
+    
+    
+    .social-media li a:hover .fa-telegram{
+        color: var(--telegram-clr);
+    }
+    
+    .social-media li a:hover .fa-github{
+        color: var(--github-clr);
+    }
+    
+    .social-media li a:hover .fa-square-instagram{
+        color: var(--instagram-clr);
+    }
+    
+    .social-media li a:hover .fa-twitter{
+        color: var(--twitter-clr);
+    }
+    
+    .social-media li a:hover .fa-square-whatsapp{
+        color: var(--whatsapp-clr);
+    }
+    
+    .social-media li a:hover .fa-linkedin-in{
+        color: var(--linkend-clr);
+    }
+    
+
+}
+
+
+
+@media (max-width: 1400px) {
+
+    .propety-box img{
+        height: 260px;
+        width: 330px;
+    }
+
+    .propety-box-content h6{
+        width: 70%;
+    }
+
+    .propety-box-content p{
+        margin-top:12px;
+    }
+
+    .question-row .accordion{
+        margin-left:70px;
+    }
+
+
+
+}
+
+
+
+@media (max-width: 1200px) {
+    
+    .banner_section{
+        width: 100%;
+    }
+    .nav .logo{
+        margin-left:-70px;
+   
+    }
+
+   .nav .menu #menu-list{
+        text-align:center; 
+      
+    }
+
+    .propety-box img{
+        height: 260px;
+        width: 330px;
+    }
+
+    .propety-box-content h6{
+        width: 70%;
+    }
+
+    .propety-box-content p{
+        margin-top:-2px;
+    }
+
+    .banner_section .back-img{
+        width: 100%;
+    }
+
+.propety-box-add h6{
+    position: absolute;
+    top: 5px;
+    width:80%;
+    line-height: 20px;
+    bottom:20px;}
+
+.propety-box-add p{
+    position: absolute;
+    top:45px;
+    width:50%;
+    line-height: 15px;
+}
+
+    .propety-box-content .price {
+        position: absolute;
+        right:10px;
+        top:25px;
+    }
+
+    .blog-box{
+        height:240px;
+        width:300px;
+    }
+
+
+    
+    .question-row .accordion{
+        margin-left:150px;
+    }
+
+
+    .social-media li a:hover i{
+        transform: translateY(-.5rem); 
+        border: 1px solid var(--green-clr); 
+        border-radius: 50%; 
+        font-size:20px;
+        background-color: var( --white-clr);
+        box-shadow:1px 1px 10px var(--white-clr),1px 1px 10px var(--white-clr);
+    }
+    
+    
+    .social-media li a:hover .fa-telegram{
+        color: var(--telegram-clr);
+    }
+    
+    .social-media li a:hover .fa-github{
+        color: var(--github-clr);
+    }
+    
+    .social-media li a:hover .fa-square-instagram{
+        color: var(--instagram-clr);
+    }
+    
+    .social-media li a:hover .fa-twitter{
+        color: var(--twitter-clr);
+    }
+    
+    .social-media li a:hover .fa-square-whatsapp{
+        color: var(--whatsapp-clr);
+    }
+    
+    .social-media li a:hover .fa-linkedin-in{
+        color: var(--linkend-clr);
+    }
+
+
+
+    .footer-second-row .footer-link{
+        position: relative;
+    }
+    
+    .footer-second-row .footer-link button{
+        position: absolute;
+        left:-100px;
+        bottom: -20px;
+    }
+    
+    
+}
+
+
+
+
+
+@media (max-width: 1199px){
+
+    .banner_section{
+        width: 100%;
+    }
+    
+
+    .nav .menu #menu-list .login{
+        text-align:center; 
+        margin-left:-30px;
+    }
+
+    .nav-iteam{
+        margin-left: -20px;
+    }
+
+
+
+    .propety-box img{
+        height:220px;
+        width: 285px;
+    }
+
+    .propety-box-content{
+       width: 90%;
+    }
+    .propety-box-add h6{
+        position: absolute;
+        top:0;
+        width:60%;
+        line-height: 20px;
+        bottom:20px;}
+    
+    .propety-box-add p{
+        position: absolute;
+        top:40px;
+        width:60%;
+        line-height: 15px;
+    }
+    
+        .propety-box-content .price {
+            position: absolute;
+            right:10px;
+            top:25px;
+        }
+        
+        .social-media li a:hover i{
+            transform: translateY(-.5rem); 
+            border: 1px solid var(--green-clr); 
+            border-radius: 50%; 
+            font-size:20px;
+            background-color: var( --white-clr);
+            box-shadow:1px 1px 10px var(--white-clr),1px 1px 10px var(--white-clr);
+        }
+        
+        
+        .social-media li a:hover .fa-telegram{
+            color: var(--telegram-clr);
+        }
+        
+        .social-media li a:hover .fa-github{
+            color: var(--github-clr);
+        }
+        
+        .social-media li a:hover .fa-square-instagram{
+            color: var(--instagram-clr);
+        }
+        
+        .social-media li a:hover .fa-twitter{
+            color: var(--twitter-clr);
+        }
+        
+        .social-media li a:hover .fa-square-whatsapp{
+            color: var(--whatsapp-clr);
+        }
+        
+        .social-media li a:hover .fa-linkedin-in{
+            color: var(--linkend-clr);
+        }
+          
+
+        .footer-second-row .footer-link{
+            position: relative;
+        }
+        
+        .footer-second-row .footer-link button{
+            position: absolute;
+            left:-200px;
+            bottom: -20px;
+        }
+        
+
+}
+
+
+
+
+
+
+
+@media (max-width: 991px) {
+
+    .banner_section{
+        width: 100%;
+    }
+
+    .blog-container{
+        grid-template-columns: repeat(2, 1fr);
+     }
+
+     .top-bar_section .top-bar .left{
+       margin-bottom: 20px;
+     }
+
+     .logo2-div{
+       margin-top:20px;
+    }
+
+    .logo2{
+        display:block;
+        border-radius:20px;
+        margin-bottom: 20px;
+        margin-top:20px;
+        width:60%;
+        margin-left: 40px;
+    }
+
+    .nav .nav-iteam{
+        background-color:#07853F;
+        height:100vh;
+        width:50%;
+        margin-left:-160px;
+        margin-top:-93px;
+    }
+
+     .nav .nav-iteam li{
+        display:block;
+        padding-top:15px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid white;
+        text-align: left;
+     }
+
+    .nav .nav-iteam .home{
+        padding-top:20px;
+    }
+    
+     
+
+     .nav .nav-iteam li a{
+        color:black;
+        margin-left:40px;
+        font-size: 1.1rem;
+     }
+
+     .nav .nav-iteam li .login{
+        color: black;
+        margin-left:40px!important;
+        font-size: 1.1rem;
+     }
+
+   
+     #menu-list.active{
+        animation: slide-in 0.3s ease-in-out forwards;
+    }
+    
+    
+    #menu-list:not(.active){
+        animation: slide-out 0.3s ease-in-out forwards;
+    }
+    
+    @keyframes slide-in{
+        0%{
+            transform: translateX(-100%);
+        }
+    
+       100%{
+            transform: translateX(0);
+        }
+    }
+    
+    
+    @keyframes slide-out{
+        0%{
+            transform: translateX(0);
+        }
+    
+       100%{
+            transform: translateX(-100%);
+        }
+    }
+    
+    
+
+     .nav .logo{
+        margin-top:5px;
+     }
+
+    .nav .menu{
+        position: relative;
+    }
+
+     .nav .menu .fa-bars{
+        display:block;
+        color:black;
+        font-weight: 800;
+        font-size: 2rem;
+        text-align:center;
+        align-items: center;
+        position: absolute;
+        left:600px;
+        top:-37px;
+    }
+
+
+    .sticky .nav .fa-bars{
+        color: white;
+    }
+
+    .customer-second-row .youtube-right{
+        margin-bottom: 80px;
+    }
+
+
+    .propety-box{
+        position: relative;
+        left:25%;
+    }
+    
+    .propety-box img{
+        height:400px;
+        width:500px;
+       margin-bottom:50px;
+    }
+
+    .propety-box-content{
+        width:100%;
+        position: absolute;
+        bottom:75px;
+        height: 110px;
+        line-height:5px;
+        left: 20px;
+        padding:20px;
+     }
+
+     .propety-box-add h6{
+         margin-top:20px;
+         
+        }
+     
+     .propety-box-add p{
+        margin-top:10px;
+        
+     }
+     
+     .propety-box-content .price {
+             position: absolute;
+             right:30px;
+             top:30;
+          
+        }
+
+
+        .propety-box-content .price button{
+            padding:20px;
+        }
+
+
+        .sell-img-col img{
+            margin-top:100px;
+            margin-bottom: 100px;
+        }
+
+        .partner-first-row .heading-full{
+            margin-top: 100px;
+        }
+
+        .blog-box{
+            margin-left: 2.5rem;
+        }
+
+       .question-row .accordion{
+        margin-left:-10px;
+       }
+
+
+        .footer-first-col{
+           margin-left:28%;
+        }
+
+        .footer-first-col .footer-address p{
+            width:70%;
+        }
+
+       .footer-second-row .footer-link{
+            margin-left:120px;
+            position: relative;
+        }
+
+        .footer-second-row .footer-link .footer-btn{
+            position: absolute;
+            right:5px;
+        }
+
+
+        .social-media li a:hover i{
+            transform: translateY(-.5rem); 
+            border: 1px solid var(--green-clr); 
+            border-radius: 50%; 
+            font-size:20px;
+            background-color: var( --white-clr);
+            box-shadow:1px 1px 10px var(--white-clr),1px 1px 10px var(--white-clr);
+        }
+        
+        
+        .social-media li a:hover .fa-telegram{
+            color: var(--telegram-clr);
+        }
+        
+        .social-media li a:hover .fa-github{
+            color: var(--github-clr);
+        }
+        
+        .social-media li a:hover .fa-square-instagram{
+            color: var(--instagram-clr);
+        }
+        
+        .social-media li a:hover .fa-twitter{
+            color: var(--twitter-clr);
+        }
+        
+        .social-media li a:hover .fa-square-whatsapp{
+            color: var(--whatsapp-clr);
+        }
+        
+        .social-media li a:hover .fa-linkedin-in{
+            color: var(--linkend-clr);
+        }
+
+        
+    .footer-second-row .footer-link{
+        position: relative;
+    }
+    
+    .footer-second-row .footer-link button{
+        position: absolute;
+        width:60px;
+        bottom: -20px;
+    }
+
+
+
+
+    
+    
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+    @media (max-width: 767px) {
+
+        .banner_section{
+            width: 100%;
+        }
+        .blog-container{
+            grid-template-columns: 1fr;
+        }
+
+        .nav .menu{
+            position: relative;
+        }
+
+        .nav .menu .fa-bars{
+            position: absolute;
+            left:400px;
+        }
+
+
+        .nav .nav-iteam{
+            background-color:#07853F;
+            height:100vh;
+            width:60%;
+            margin-left:-140px;
+            margin-top:-93px;
+        }
+
+        .logo2{
+            width: 60%;
+        }
+    
+
+        .propety-box{
+            margin-left:-8rem;
+        }
+
+
+
+        .propety-box-content{
+            width:70%;
+            position: absolute;
+            bottom:75px;
+            height: 110px;
+            line-height:5px;
+            margin-left: .4rem;
+            padding:20px;
+         }
+    
+         .propety-box-add h6{
+             margin-top:20px;
+             
+            }
+         
+         .propety-box-add p{
+            margin-top:10px;
+            
+         }
+         
+         .propety-box-content .price {
+                 position: absolute;
+                 right:30px;
+                 top:30;
+              
+            }
+    
+    
+            .propety-box-content .price button{
+                padding:20px;
+            }
+
+            .blog-box{
+                margin-left: 7rem;
+            }
+
+
+            .footer-first-col{
+                margin-left:28%;
+                margin-top:50px;
+             }
+             .footer-first-col .footer-address{
+                margin-top: 50px;
+             }
+     
+             .footer-first-col .footer-address p{
+                 width:100%;
+             }
+
+             .footer-second-row .footer-service{
+                margin-top:80px;
+                margin-left:150px;
+             }
+     
+            .footer-second-row .footer-link{
+                 margin-top: 80px;
+                 margin-bottom:50px;
+                 margin-left:150px;
+                 position: relative;
+             }
+     
+             .footer-second-row .footer-link .footer-btn{
+                 right:-250px;
+                 top:310px;
+                 position: absolute;
+             }
+     
+
+             .social-media li a:hover i{
+                transform: translateY(-.5rem); 
+                border: 1px solid var(--green-clr); 
+                border-radius: 50%; 
+                font-size:20px;
+                background-color: var( --white-clr);
+                box-shadow:1px 1px 10px var(--white-clr),1px 1px 10px var(--white-clr);
+            }
+            
+            
+            .social-media li a:hover .fa-telegram{
+                color: var(--telegram-clr);
+            }
+            
+            .social-media li a:hover .fa-github{
+                color: var(--github-clr);
+            }
+            
+            .social-media li a:hover .fa-square-instagram{
+                color: var(--instagram-clr);
+            }
+            
+            .social-media li a:hover .fa-twitter{
+                color: var(--twitter-clr);
+            }
+            
+            .social-media li a:hover .fa-square-whatsapp{
+                color: var(--whatsapp-clr);
+            }
+            
+            .social-media li a:hover .fa-linkedin-in{
+                color: var(--linkend-clr);
+            }
+            
+
+            
+    .footer-second-row .footer-link{
+        position: relative;
+    }
+    
+    .footer-second-row .footer-link button{
+        position: absolute;
+        left:-60px;
+        height: 50px;
+    }
+    
+    
+    
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media (max-width: 575px) {
+
+        .banner_section{
+            width: 100%;
+        }
+        .nav .menu{
+            position: relative;
+        }
+
+
+        .nav .nav-iteam{
+            background-color:#07853F;
+            height:100vh;
+            width:60%;
+            margin-left:-60px;
+            margin-top:-93px;
+        }
+
+        .logo2{
+            width: 60%;
+        }
+    
+
+
+        .nav .logo{
+            margin-left: 20px;
+        }
+
+        .nav .menu .fa-bars{
+            position: absolute;
+            left:450px;
+        }
+
+    
+        .propety-box-content{
+            width:71%;
+            position: absolute;
+            bottom:75px;
+            height: 110px;
+            line-height:5px;
+            left:18px;
+            padding:20px;
+         }
+    
+         .propety-box-add h6{
+             margin-top:20px;
+             
+            }
+         
+         .propety-box-add p{
+            margin-top:10px;
+            
+         }
+         
+         .propety-box-content .price {
+                 position: absolute;
+                 right:30px;
+                 top:30;
+              
+            }
+    
+    
+            .propety-box-content .price button{
+                padding:20px;
+            }
+
+           
+
+
+            .footer-first-col{
+                margin-left:28%;
+                margin-top:50px;
+             }
+             .footer-first-col .footer-address{
+                margin-top: 50px;
+             }
+     
+             .footer-first-col .footer-address p{
+                 width:100%;
+             }
+
+             .footer-second-row .footer-service{
+                margin-top:80px;
+                margin-left:150px;
+             }
+     
+            .footer-second-row .footer-link{
+                 margin-top: 80px;
+                 margin-bottom:50px;
+                 margin-left:150px;
+                 position: relative;
+             }
+     
+             .footer-second-row .footer-link .footer-btn{
+                 right:-250px;
+                 top:310px;
+                 position: absolute;
+             }
+     
+
+             .social-media li a:hover i{
+                transform: translateY(-.5rem); 
+                border: 1px solid var(--green-clr); 
+                border-radius: 50%; 
+                font-size:20px;
+                background-color: var( --white-clr);
+                box-shadow:1px 1px 10px var(--white-clr),1px 1px 10px var(--white-clr);
+            }
+            
+            
+            .social-media li a:hover .fa-telegram{
+                color: var(--telegram-clr);
+            }
+            
+            .social-media li a:hover .fa-github{
+                color: var(--github-clr);
+            }
+            
+            .social-media li a:hover .fa-square-instagram{
+                color: var(--instagram-clr);
+            }
+            
+            .social-media li a:hover .fa-twitter{
+                color: var(--twitter-clr);
+            }
+            
+            .social-media li a:hover .fa-square-whatsapp{
+                color: var(--whatsapp-clr);
+            }
+            
+            .social-media li a:hover .fa-linkedin-in{
+                color: var(--linkend-clr);
+            }
+            
+
+            
+    .footer-second-row .footer-link{
+        position: relative;
+    }
+    
+    .footer-second-row .footer-link button{
+        position: absolute;
+        left:-80px;
+        bottom: -30px;
+    }
+    
+
+
+
+
+
+    .footer-second-row .footer-link button{
+        position: absolute;
+        left:-170px;
+        width: 30px;
+       height: 30px;
+        bottom: -20px;
+        text-align: center;
+    }
+
+    .footer-second-row .footer-link button i{
+        font-size:20px;
+        margin-left:-7px;
+    }
+
+
+}
+
+
+    @media (max-width: 490px) {
+
+        .banner_section{
+            width: 100%;
+        }
+        .nav .menu{
+            position: relative;
+        }
+
+        .nav .menu .fa-bars{
+            position: absolute;
+            left:350px;
+        }
+
+
+        .footer-second-row .footer-link button{
+            position: absolute;
+            left:-170px;
+            width: 30px;
+           height: 30px;
+            bottom: -20px;
+            text-align: center;
+        }
+    
+        .footer-second-row .footer-link button i{
+            font-size:20px;
+            margin-left:-7px;
+        }
+    
+
+        
+        .blog-box{
+            margin-left: 2.5rem;
+        }
+
+
+        .propety-box{
+            margin-left:-1rem;
+        }
+
+    
+    
+    }
+
+
+    @media (max-width: 450px) {
+
+        .banner_section{
+            width: 100%;
+        }
+    .footer-second-row .footer-link{
+        position: relative;
+    }
+    
+    .footer-second-row .footer-link button{
+        position: absolute;
+        left:-170px;
+        width: 30px;
+       height: 30px;
+        bottom: -20px;
+        text-align: center;
+    }
+
+    .footer-second-row .footer-link button i{
+        font-size:20px;
+        margin-left:-7px;
+    }
+
+
+
+}
+
+
+    @media (max-width: 390px) {
+
+        .banner_section{
+            width: 100%;
+        }
+        .nav .menu{
+            position: relative;
+        }
+
+        .nav .menu .fa-bars{
+            position: absolute;
+            left:300px;
+        }
+
+
+        .footer-second-row .footer-link button{
+            position: absolute;
+            left:-250px;
+            width: 30px;
+           height: 30px;
+            bottom: -20px;
+            text-align: center;
+        }
+    
+        .footer-second-row .footer-link button i{
+            font-size:20px;
+            margin-left:-7px;
+        }
+    
+    
+    }
+
+
+
+
+    @media (max-width: 375px){
+        .nav .logo{
+            margin-left:5px;
+        }
+    }
+
+
+
+    @media (max-width: 320px){
+        .nav .fa-bars{
+            margin-left:-40px;
+        }
+    }
+
+   
